@@ -1,0 +1,7 @@
+Django==3.1.2
+django-extensions
+djangorestframework
+django-cors-headers
+markdown
+django-filter
+coverage
